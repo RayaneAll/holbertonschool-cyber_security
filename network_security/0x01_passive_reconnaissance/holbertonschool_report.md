@@ -21,7 +21,7 @@
 - read.holbertonschool.com
 - yriry2.holbertonschool.com
 
-## 3. Technologies detected
+## 3. Technologies and frameworks detected
 ### staging-apply.holbertonschool.com
 - Nginx
 - cloud, eol-product
