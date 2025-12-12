@@ -1,6 +1,7 @@
 # Shodan Report — holbertonschool.com
 
 ## 1. IP ranges & public hosts
+
 | IP Address       | Hostname                   | Port | Organization         |
 |------------------|----------------------------|------|-------------------|
 | 35.181.84.105   | ec2-35-181-84-105.eu-west-3.compute.amazonaws.com, staging-apply.holbertonschool.com    | 80, 443  | Amazon Data Services France        |
@@ -16,13 +17,16 @@
 | 35.180.27.154   | ec2-35-180-27-154.eu-west-3.compute.amazonaws.com    | 80, 443  | Amazon Data Services France        |
 
 ## 2. Subdomains discovered
+
 - staging-apply.holbertonschool.com
 - apply.holbertonschool.com
 - read.holbertonschool.com
 - yriry2.holbertonschool.com
 
 ## 3. Technologies and frameworks detected
+
 ### staging-apply.holbertonschool.com
+
 - Nginx
 - cloud, eol-product
 - SSL Certificate
@@ -30,6 +34,7 @@
 - Server: nginx/1.20.0
 
 ### apply.holbertonschool.com
+
 - jQuery, Ruby, Ruby on Rails, Nginx, Google Tag Manager, Typekit
 - cloud, eol-product
 - SSL Certificate
@@ -37,6 +42,7 @@
 - Server: nginx/1.20.0
 
 ### read.holbertonschool.com
+
 - Nginx
 - cloud, eol-product
 - SSL Certificate
@@ -44,10 +50,12 @@
 - Server: nginx/1.20.0
 
 ### yriry2.holbertonschool.com
+
 - cloud
 - SSL Certificate
 - Supported SSL Versions: TLSv1.2, TLSv1.3
 - Server: nginx
 
 ## 4. Notes
+
 - Server: nginx/1.18.0 (Ubuntu) -> 35.180.27.154
