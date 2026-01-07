@@ -1,2 +1,2 @@
-ip.proto==1
+icmp || ip.proto == 1
 
