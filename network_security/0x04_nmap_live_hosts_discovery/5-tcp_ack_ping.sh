@@ -1,2 +1,2 @@
 #!/bin/bash
-nmap -sn -PA22,80,443 $1
+sudo nmap -sn -PA20,80,443 --send-ip "$1"
